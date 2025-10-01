@@ -7,8 +7,8 @@ This is a web application.
 Language: Java.
 Interface: React.
 
-[Requirements](https://github.com/Kenoty/Document-generationg-service/blob/main/Requirements)  
-[Mockups](https://github.com/Kenoty/Document-generationg-service/blob/main/Mockups)  
-[Diagrams](https://github.com/Kenoty/Document-generationg-service/blob/main/Diagrams)    
+[Requirements](https://github.com/Kenoty/Document-generationg-service/blob/main/requirements)  
+[Mockups](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups)  
+[Diagrams](https://github.com/Kenoty/Document-generationg-service/blob/main/diagrams)    
 Java code  
 React code  
