@@ -94,19 +94,33 @@ Frontend приложения использует:
 <a name="user_interface"/>
 
 ## 2.2 Интерфейс пользователя
-Интерфейс приложения будет состоять из следующих основных экранов:
+Окно создания шаблона.  
+  
+![Окно создания шаблона](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/template_creation.png)
 
-* Экран входа/регистрации - аутентификация пользователей
+Окно редактирования настроек шаблона.  
+  
+![Окно редактирования настроек шаблона](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/template_editing.png)
 
-* Дашборд - обзор последних документов и шаблонов
+Окно документов, созданных на основе шаблона.  
+  
+![Окно документов, созданных на основе шаблона](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/documents_of_template.png)
 
-* Управление шаблонами - создание, редактирование, удаление шаблонов документов
+Окно генерации документа, шаг 1.  
+  
+![Окно генерации документа, шаг 1.](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/document_generation_step_1.png)
 
-* Редактор шаблонов - визуальное создание и настройка шаблонов
+Окно генерации документа, шаг 2.  
+  
+![Окно генерации документа, шаг 2.](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/document_generation_step_2.png)
 
-* Генератор документов - заполнение данных и создание документов на основе шаблонов
+Окно генерации документа, шаг 3.  
+  
+![Окно генерации документа, шаг 3.](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/document_generation_step_3.png)
 
-* История документов - просмотр ранее сгенерированных документов
+Окно генерации документа, шаг 4.  
+  
+![Окно генерации документа, шаг 4.](https://github.com/Kenoty/Document-generationg-service/blob/main/mockups/document_generation_step_4.png)
 
 <a name="user_specifications"/>
 
